@@ -1,0 +1,9 @@
+model_name;AUROC;AUPRC
+random_forest-max-depth9;0.90284;0.39185
+easyEnsemble_classifier_400-estimators;0.92314;0.45611
+svm;0.85881;0.33134
+rusboost_400-estimators;0.84689;0.41954
+dense_network-three-layers;0.80992;0.33753
+logistic_regression;0.86134;0.33685
+transfer_learning;0.9959;0.96832
+shogun_WeightedDegreeStringKernel_svm;0.85616;0.70594
